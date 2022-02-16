@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class ScheduleConfig(AppConfig):
-    name = 'schedule'
+class NFLConfig(AppConfig):
+    name = "nfl"
